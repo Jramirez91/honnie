@@ -1,5 +1,5 @@
-# love
-
+# Love
+Es un projecto que describe lo que siento por mi corazón
 ## Project setup
 ```
 yarn install
